@@ -1,16 +1,16 @@
-all: index.html index.pdf index.docx index.txt
+all: html pdf docx txt
 
-index.html: index.md style.css
-		pandoc --standalone -c style.css --from markdown --to html -o index.html index.md
+html: janos_feher_cv.md style.css
+		pandoc --standalone -c style.css --from markdown --to html -o janos_feher_cv.html janos_feher_cv.md
 
-index.pdf: index.html
-		/usr/local/apps/wkhtmltox/bin/wkhtmltopdf --enable-external-links index.html index.pdf
+pdf: html
+		/usr/local/apps/wkhtmltox/bin/wkhtmltopdf --enable-external-links janos_feher_cv.html janos_feher_cv.pdf
 
-index.docx: index.md
-		pandoc --from markdown --to docx -o index.docx index.md
+docx: janos_feher_cv.md
+		pandoc --from markdown --to docx -o janos_feher_cv.docx janos_feher_cv.md
 
-index.txt: index.md
-		pandoc --standalone --smart --from markdown --to plain -o index.txt index.md
+txt: janos_feher_cv.md
+		pandoc --standalone --smart --from markdown --to plain -o janos_feher_cv.txt janos_feher_cv.md
 
 clean:
 		rm -f *.html *.pdf *.docx *.txt
