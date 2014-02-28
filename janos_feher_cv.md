@@ -63,7 +63,7 @@ Architectural Frameworks
 :   [TOGAF](http://www.opengroup.org/togaf/), [IAF](http://www.capgemini.com/resources/the-integrated-architecture-framework-explained) (certified)
 
 Development livecycle
-:   [Atlassian](http://www.atlassian.com) stack (Jira, Stash, Fisheye, Confluence, etc.), [Phabricator](http://phabricator.org), [Jenkins](http://jenkins-ci.org), [Capistrano](http://capistranorb.com), [Sonarqube](http://www.sonarqube.org)
+:   [Atlassian](http://www.atlassian.com) stack (Jira, Stash, Fisheye, Confluence, etc.), [Phabricator](http://phabricator.org), [Jenkins](http://jenkins-ci.org), [Capistrano](http://capistranorb.com), [Sonarqube](http://www.sonarqube.org), Git, Subversion
 
 Actively used languages
 :   PHP, Javascript, Node.js, HTML5, XHTML, CSS3, [Google Go](http://golang.org)
