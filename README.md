@@ -1,6 +1,6 @@
-My CV
+Curriculum Vitae of János Fehér
 ==
 
-My Curriculum Vitae, implemented with Pandoc and Wkhtmltopdf.
+János Fehér's CV, implemented with Pandoc and Wkhtmltopdf.
 
 Thanks to [Ch-M.D](http://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html) for the idea.
