@@ -28,7 +28,7 @@ h1:hover {
 
 /* Titles of categories */
 h2 {
-    color: #2CB0B7;
+    color: #002884;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -37,16 +37,16 @@ h2:before {
     margin-right:1%;
     width: 16%;
     height: 10px;
-    background-color: #2CB0B7;
+    background-color: #002884;
 }
 h2:hover {
-    background-color: #397249;
+    background-color: #003894;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
 
 h3 {
-    color: #2CB0B7;
+    color: #002884;
     font-weight: normal;
 }
 
@@ -77,10 +77,10 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    color: #003894;
 }
 a:hover, a:active {
-    background-color: #397249;
+    background-color: #003994;
     color: #FFFFFF;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;

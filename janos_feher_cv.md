@@ -1,8 +1,8 @@
-János Fehér
+Janos Feher
 ===========
 
->  Flat 82 Winterton House, London, E1 2QS \
->  +44 75445 93343 • <i.am@janosfeher.com> • <https://janosfeher.com>
+>  Aldgate, London, United Kingdom \
+>  +44 75445 93343 • <i.am@janosfeher.com> • <https://linkedin.com/in/ariesmindworks>
 
 ----
 
@@ -14,14 +14,14 @@ János Fehér
 ## Professional Experience
 
 Since 2014
-:   *Lead Developer for [Intern Avenue](https://www.internavenue.com/)* (London, United Kingdom)
+:   *Head of Product Development / Lead Engineer for [Intern Avenue](https://www.internavenue.com/)* (London, UK)
 
     ### Impact
-    * Tech Employee #1 at Intern Avenue, built the technical team with the ethos of DevOps and Clean Code.
-    * Defined technical goals that provides web-scale business capabilities and have been leading the team to achieve these.
-    * Created company-wide policies and protocols in regard of technology, software engineering, governance and security. These policies enabled us to be a supplier of the UK Government's G-Cloud Programme.
-    * Managed the project and led the 10-person strong Innovate UK match-funded R&D project through 18 months, from start to finish to build our new matching engines and psychometric insights. Total budget: £550K. 
-    * Designed the next-generation of our platform with microservices to support asynchronous execution and geographical partitioning with the potential support for ISO 27001 and [SOX](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act).
+    * As the first technical hire at Intern Avenue, I built the technical team from scratch with the ethos of DevOps, Clean Code, Open-Source and Lean.
+    * Defined the technical goals that provides web-scale business capabilities and have been leading the team to reach these targets.
+    * Created company-wide policies and protocols in regard of technology, software engineering, governance and security. These policies enabled us to be a supplier of the UK Government's [G-Cloud Programme](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/389221217389196).
+    * Managed the project and led the 10-person strong Innovate UK [match-funded R&D project (ACE)](http://gtr.rcuk.ac.uk/projects?ref=720586) through 18 months, from start to finish to build our new matching engines and psychometric insights. Total budget: £550K. 
+    * Designed the next-generation platform with microservices to support asynchronous execution and geographical partitioning with the potential support for ISO 27001 and [SOX](https://en.wikipedia.org/ wiki/Sarbanes%E2%80%93Oxley_Act).
     * Implemented the Scrum Agile project management with Lean components.
     * Implemented the Continuous Delivery approach for the shortest possible time-to-market. 
 
@@ -76,7 +76,7 @@ Side Projects
 ## Technical Toolbox
 
 Development lifecycle
-:   [Atlassian](http://www.atlassian.com) stack (Jira, Stash, Fisheye, Confluence, etc.), [Phabricator](http://phabricator.org), [Jenkins](http://jenkins-ci.org), [Gitlab CI](https://about.gitlab.com/gitlab-ci/), [Capistrano](http://capistranorb.com), [Sonarqube](http://www.sonarqube.org), Git, Subversion, LXC, Docker, [New Relic](https://newrelic.com/), [Sysdig](http://www.sysdig.org/)
+:   [Atlassian](http://www.atlassian.com) stack (Jira, Stash, Fisheye, Confluence, etc.), [Phabricator](http://phabricator.org), [Jenkins](http://jenkins-ci.org), [Gitlab CI](https://about.gitlab.com/gitlab-ci/), [Capistrano](http://capistranorb.com), [Sonarqube](http://www.sonarqube.org), Git, Subversion, LXC, Docker, [New Relic](https://newrelic.com/), [OpenShift](http://www.openshift.com/)
 
 Actively used languages
 :   PHP (18y+), Javascript (18y+), Node.js, HTML5, XHTML, CSS3, [Go](http://golang.org)
@@ -101,4 +101,4 @@ Databases
 
 ----
 
-> <i.am@janosfeher.com> • +44 75445 93343 • <https://janosfeher.com>
+> <i.am@janosfeher.com> • +44 75445 93343 • <https://linkedin.com/in/ariesmindworks> 
