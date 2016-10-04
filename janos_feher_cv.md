@@ -6,8 +6,7 @@ Janos Feher
 
 ----
 
->  Extensive experience in Web-Scale Product Development, Software and Integration Architecture \
->  Keywords: Technical Leadership, Agile, Lean, Software Architecture, Go, Drupal, Entrepreneur
+> I have a passion for creating indispensable products with the help of lean technologies, building high-growth teams and innovative businesses. I am an engineer, led by a particular obsession with simplification in order to minimise business and technology risks.
 
 ----
 
@@ -36,7 +35,7 @@ Since 2014
     * Integrated the web-tier applications with standalone and Software-as-a-Service (SaaS) endpoints, such as a market-leading CRM, payment gateway, credit and identity check, industrial-grade printable document output.
     * Provided reusable software frameworks and patterns.
     * Mentored and managed graduate software engineer talents.
-    * Represented Capgemini on international conferences, technolgy bootcamps and meetups.
+    * Represented Capgemini on international conferences, technology bootcamps and meetups.
     
 2002-2011
 :   *Founder & CEO of Mindworks Ltd* (Multiple offices, Hungary)
@@ -46,8 +45,7 @@ Since 2014
     ### Impact
     * Founded a distributed web development company and managed based on Agile and XP principles.
     * Opened and managed accounts in wide range of sectors including Retail, Logistics and Government.
-    * Recognized the shortage of open-source solutions in 
-    * Estabilished technical ownership of a web-based, desktop application like real-time battlefield visualization application for the Hungarian Defence Force (NATO member). The project was actively operated and developed for 4 years.
+    * Established technical ownership of a web-based, desktop application like real-time battlefield visualisation application for the Hungarian Defence Force (NATO member). The project was actively operated and developed for 4 years.
     * Designed and led the implementation the backend of a website with complex analytics and video transcoding feature for the Canadian reality-singing competition called Exposure, the joint project of [Yahoo! Canada](http://yahoo.ca) and [CBC](http://www.cbc.ca).
     * Delivered websites and interfaces to database assets of French and Belgian governments.
     * Delivered one of the first, desktop-like Drupal application at scale. The software is had been running without major architectural change for years. 
@@ -58,7 +56,7 @@ Since 2014
     ### Impact
     * Between 2007 and 2011, the Hungarian language was the most translated and supported language for [Drupal](http://drupal.org), the market-leading content management system.
     * Managed a team of 166 contributors, 9 board members country-wide.
-    * Provided a unified grammatic and stylistic recommendations which used by other projects, such as [Firefox](http://www.mozilla.org/firefox) or [LibreOffice](http://www.libreoffice.org).
+    * Provided a unified grammatical and stylistic recommendations which used by other projects, such as [Firefox](http://www.mozilla.org/firefox) or [LibreOffice](http://www.libreoffice.org).
 
 2001 (6 months)
 :   Contributor to xMach, a microkernel operating system (Member of the Core Team). The project later taken over by [Apple](http://apple.com).
@@ -79,7 +77,7 @@ Development lifecycle
 :   [Atlassian](http://www.atlassian.com) stack (Jira, Stash, Fisheye, Confluence, etc.), [Phabricator](http://phabricator.org), [Jenkins](http://jenkins-ci.org), [Gitlab CI](https://about.gitlab.com/gitlab-ci/), [Capistrano](http://capistranorb.com), [Sonarqube](http://www.sonarqube.org), Git, Subversion, LXC, Docker, [New Relic](https://newrelic.com/), [OpenShift](http://www.openshift.com/)
 
 Actively used languages
-:   PHP (18y+), Javascript (18y+), Node.js, HTML5, XHTML, CSS3, [Go](http://golang.org)
+:   PHP (18y+), JavaScript (18y+), Node.js, HTML5, XHTML, CSS3, [Go](http://golang.org)
 
 Development frameworks
 :   [Drupal](http://drupal.org) (12y+), [Symfony](http://symfony.com) (3y+), Apache Spark, Apache Hadoop, Apache [Prediction.io](https://prediction.io/), Apache [Zeppelin](http://zeppelin-project.org/) Big Data BI 
@@ -94,7 +92,7 @@ Databases
 :   *Certified MongoDB Developer*, *Certified MongoDB Administrator*
 
 2012
-:   *[Integrated Architecture Framework](http://www.capgemini.com/resources/the-integrated-architecture-framework-explained)* (the content framework of [TOGAF 9](https://prediction.io/)) - Practicioner Level
+:   *[Integrated Architecture Framework](http://www.capgemini.com/resources/the-integrated-architecture-framework-explained)* (the content framework of [TOGAF 9](https://prediction.io/)) - Practitioner Level
 
 1998-2003
 :   *University of Veszprém*, Master of Engineering Informatics (unfinished)
