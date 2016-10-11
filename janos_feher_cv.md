@@ -6,7 +6,7 @@ Janos Feher
 
 ----
 
-> I have a passion for creating indispensable products with the help of lean technologies, building high-growth teams and innovative businesses. I am an engineer, led by a particular obsession with simplification in order to minimise business and technology risks.
+> I have a passion for creating indispensable products with the help of lean technologies, the building of high-growth teams and the entrepreneuralism of innovative businesses. I am an engineer, driven by a particular obsession with simplification in order to minimise technology and business risks.
 
 ----
 
@@ -14,6 +14,8 @@ Janos Feher
 
 Since 2014
 :   *Head of Product Development / Lead Engineer for [Intern Avenue](https://www.internavenue.com/)* (London, UK)
+
+    In the last 3 years (since I joined), we've been growing 3 digits: 5x on active users and 3x on revenue. Partnered with Vodafone, DWP, AOL as well as startups: Fuel 3D, Hailo, Minicabit.
 
     ### Impact
     * As the first technical hire at Intern Avenue, I built the technical team from scratch with the ethos of DevOps, Clean Code, Open-Source and Lean.
@@ -30,12 +32,12 @@ Since 2014
     Sample clients: [Royal Mail](http://www.royalmail.com), [Parcelforce](http://www.parcelforce.com), [Post Office](http://www.postoffice.co.uk), [Bristol City Council](http://www.bristol.gov.uk)
 
     ### Impact
+    * Worked as a Software Engineer Lead for UK's largest Drupal deployment and digital transformation. Budget: £200M+
     * Negotiated strategic partnership with startup technology vendor, which enabled Capgemini to integrate cost-efficient emerging technologies into the enterprise software stack.
     * Led test and domain driven design and implementation of ecommerce-heavy user journeys.
     * Integrated the web-tier applications with standalone and Software-as-a-Service (SaaS) endpoints, such as a market-leading CRM, payment gateway, credit and identity check, industrial-grade printable document output.
     * Provided reusable software frameworks and patterns.
     * Mentored and managed graduate software engineer talents.
-    * Represented Capgemini on international conferences, technology bootcamps and meetups.
     
 2002-2011
 :   *Founder & CEO of Mindworks Ltd* (Multiple offices, Hungary)
@@ -43,7 +45,7 @@ Since 2014
     Sample clients: [Yahoo.ca](http://yahoo.ca), Hungarian Defence Force, [Koba](http://koba.be), [Institut Supérieur des Métiers](http://www.infometiers.org/)
 
     ### Impact
-    * Founded a distributed web development company and managed based on Agile and XP principles.
+    * Founded a distributed web development company and managed based on Agile and XP principles. First year revenue: £150k+
     * Opened and managed accounts in wide range of sectors including Retail, Logistics and Government.
     * Established technical ownership of a web-based, desktop application like real-time battlefield visualisation application for the Hungarian Defence Force (NATO member). The project was actively operated and developed for 4 years.
     * Designed and led the implementation the backend of a website with complex analytics and video transcoding feature for the Canadian reality-singing competition called Exposure, the joint project of [Yahoo! Canada](http://yahoo.ca) and [CBC](http://www.cbc.ca).
@@ -60,11 +62,6 @@ Since 2014
 
 2001 (6 months)
 :   Contributor to xMach, a microkernel operating system (Member of the Core Team). The project later taken over by [Apple](http://apple.com).
-
-1997-2002
-:   *Independent web developer, Linux/FreeBSD system administrator* (Veszprém, Hungary).
-
-    Sample clients: University of Veszprém, [Netpositive](http://netpositive.hu/en)
 
 Side Projects
 :   * Technical reviewer of [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go), [Mastering Go Web Services](https://www.packtpub.com/web-development/mastering-go-web-services), [Drupal for Education and E-Learning](https://www.packtpub.com/web-development/drupal-education-and-e-learning) 
